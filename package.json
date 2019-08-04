@@ -29,6 +29,6 @@
     "@types/react-dom": "^16.0.7",
     "gh-pages": "^1.2.0",
     "prop-types": "^15.6.2",
-    "typescript": "^3.0.1"
+    "typescript": "^3.5.3"
   }
 }
