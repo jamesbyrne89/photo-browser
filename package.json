@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@types/react-router-dom": "^4.3.0",
+    "@types/react-router-dom": "^4.3.4",
     "axios": "^0.18.0",
     "history": "^4.7.2",
     "material-icons-react": "^1.0.2",
